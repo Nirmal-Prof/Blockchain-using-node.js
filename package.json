@@ -1,0 +1,15 @@
+{
+  "name": "newproj",
+  "version": "1.0.0",
+  "main": "block.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "js-sha256": "^0.11.0"
+  },
+  "description": ""
+}
